@@ -1,0 +1,6 @@
+{
+  "name": "Veritas Ledger — Forensic Audit & RDBMS Integrity System",
+  "description": "Enterprise forensic audit trail platform with ISO/IEC 27037 chain of custody, AES-256-GCM encrypted vault, RDBMS .bak architectural assessment, online Excel cross-referencing, and Gemini AI forensic enquiry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
